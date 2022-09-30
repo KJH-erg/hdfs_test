@@ -17,8 +17,6 @@ public class ToolRunnerExample extends Configured implements Tool{
         System.out.println(Arrays.toString(args));
         return 0;
 
-
-
     }
     public static void main(String[] args) throws Exception {
         System.out.println(Arrays.toString(args));
