@@ -1,4 +1,7 @@
+/Users/kjh/dev/hdfs_test/mapreduce-example/mapreduce-example/src/main/java/com/hadoop_example/SortWordCount.java
 /Users/kjh/dev/hdfs_test/mapreduce-example/mapreduce-example/src/main/java/com/hadoop_example/WordCountWithCounter.java
+/Users/kjh/dev/hdfs_test/mapreduce-example/mapreduce-example/src/main/java/com/hadoop_example/ReduceSideJoin.java
 /Users/kjh/dev/hdfs_test/mapreduce-example/mapreduce-example/src/main/java/com/hadoop_example/GenericOptionsParserExample.java
 /Users/kjh/dev/hdfs_test/mapreduce-example/mapreduce-example/src/main/java/com/hadoop_example/WordCount.java
 /Users/kjh/dev/hdfs_test/mapreduce-example/mapreduce-example/src/main/java/com/hadoop_example/ToolRunnerExample.java
+/Users/kjh/dev/hdfs_test/mapreduce-example/mapreduce-example/src/main/java/com/hadoop_example/MapSideJoinDistCache.java
